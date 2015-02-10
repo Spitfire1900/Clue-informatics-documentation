@@ -6,5 +6,5 @@
 4. Provide viewable output of the known location of cards to the end user.
 5. Determine what is in the classified folder
 6. Know the order of players
-7. Known the number of player
+7. Know the number of players
 8. Be able to input known cards by the end user
