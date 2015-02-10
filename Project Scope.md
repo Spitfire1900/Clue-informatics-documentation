@@ -4,7 +4,7 @@
 ## What is in the Project Scope ##
 - Determine, based off of responses to rumors, the location of cards in a game of Clue
 - Present to the user the known current location of cards
-- This is a standard Clue Game
+- This is the Clue: Discover the Secrets Edition
 
 ## What is NOT in the Project Scope ##
 - Tell you where to move your character
