@@ -6,4 +6,6 @@ Start:
 5. enter or select equipment in rumor
 6. Computer aks for each player if that player is answering the rumor
 6.1 if no, then moves onto next player until no more players
-6.2 if yes, then enter card that player has then ends session
+6.2 if yes, User is prompted for input
+6.2.1 If user made rumer, enter card shown to user
+6.2.2 If user did not make rumor label card as maybe
