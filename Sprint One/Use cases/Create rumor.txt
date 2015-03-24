@@ -1,0 +1,9 @@
+Start:
+1. Press "new rumor" button or enter "new rumor"
+2. Computer asks for identity of player making rumor
+3. Enter or select player making rumor
+4. computer asks for items that make up rumor
+5. enter or select equipment in rumor
+6. Computer aks for each player if that player is answering the rumor
+6.1 if no, then moves onto next player until no more players
+6.2 if yes, then enter card that player has then ends session
