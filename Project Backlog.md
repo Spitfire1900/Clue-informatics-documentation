@@ -1,5 +1,6 @@
 # High-Level Project Backlog #
 
+1. Move documentation to the Clue-informatics wiki
 1. Determine which cards are in players hands.
 1. Keep track of Rumors made throughout the game.
 1. Know who made and what the contents of a Rumor are.
