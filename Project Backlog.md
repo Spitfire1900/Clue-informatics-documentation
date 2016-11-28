@@ -1,4 +1,4 @@
-# High-Level Product Backlog #
+# High-Level Project Backlog #
 
 1. Determine which cards are in players hands.
 1. Keep track of Rumors made throughout the game.
